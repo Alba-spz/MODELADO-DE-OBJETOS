@@ -1,6 +1,6 @@
-from Circulo import Circulo
-from Cuadrado import Cuadrado
-from Elipse import Elipse
+from circulo import Circulo
+from cuadrado import Cuadrado
+from elipse import Elipse
 
 def main():
     figuras = [

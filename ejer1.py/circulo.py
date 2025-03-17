@@ -1,4 +1,4 @@
-from Figura import Figura
+from figura import Figura
 class Circulo(Figura):
     def __init__(self, radio):
         super().__init__("Círculo")

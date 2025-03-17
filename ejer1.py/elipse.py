@@ -1,4 +1,4 @@
-from Figura import Figura
+from figura import Figura
 
 class Elipse(Figura):
     def __init__(self, eje_mayor, eje_menor):

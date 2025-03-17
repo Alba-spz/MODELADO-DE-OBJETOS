@@ -1,4 +1,4 @@
-from Figura import Figura
+from figura import Figura
 class Cuadrado(Figura):
     def __init__(self, lado):
         super().__init__("Cuadrado")
